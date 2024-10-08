@@ -1,0 +1,10 @@
+Describe best practices for the GitHub repository.
+-	GitHub jobs include sharing and tracking versions of any file
+-	Comparing differences across unformatted raw text files (another GitHub job)
+o	It doesn’t compare cross diff file formats like excel or tableau
+-	GitHub is good at displaying who, when, how and why changes were made to each version. You can access an earlier version without losing the changes you made later. 
+-	GitHub is better at sharing with people, including those you do not know yet – useful to data scientists who need to know of potential errors or biases that may be lurking in their models, encourages you to ask for help and easy to find ways to help others
+-	It is intuitive once you learn the basics, and a robust mech for project control and collab
+-	
+
+Give an example of one type of collaboration that might benefit from the use of GitHub.
